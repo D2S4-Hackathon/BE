@@ -4,7 +4,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.1.7'
 }
 
-group = 'com.bizondam'
+group = 'com.d2s4'
 version = '0.0.1-SNAPSHOT'
 description = 'D2S4_BE'
 

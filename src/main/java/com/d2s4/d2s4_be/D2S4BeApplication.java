@@ -1,4 +1,4 @@
-package com.bizondam.d2s4_be;
+package com.d2s4.d2s4_be;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
